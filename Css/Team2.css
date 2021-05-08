@@ -23,7 +23,7 @@ a {
 
 #team {
     width: 100%;
-    min-height: 100vh;
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -124,8 +124,8 @@ a {
 }
 
 .details img {
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     border-radius: 50%;
     overflow: hidden;
     object-fit: cover;
@@ -386,4 +386,7 @@ ul.social-network li {
 
 .profile-title {
     font-size: 13.5px;
+}
+.box .p {
+    font-size: 15px;
 }
